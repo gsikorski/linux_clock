@@ -17,4 +17,4 @@ auto main() -> int {
 }
 ```
 
-[https://godbolt.org/z/q9Ez9j1EK](https://godbolt.org/z/zccqj71vE)https://godbolt.org/z/zccqj71vE
+[https://godbolt.org/z/zccqj71vE](https://godbolt.org/z/zccqj71vE)
