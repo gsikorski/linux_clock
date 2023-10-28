@@ -4,6 +4,6 @@
 
 namespace linux_clock {
 
-using realtime_clock = linux_clock<CLOCK_REALTIME>;
+using realtime_clock = linux_clock<CLOCK_REALTIME, false>;
 
 } // namespace linux_clock
